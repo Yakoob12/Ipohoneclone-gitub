@@ -1,0 +1,42 @@
+/* ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 12px;
+    color: white;
+    background-color: #2d3e50;
+justify-content: space-around;
+}
+ul.list li.active{
+    background-color: orange;
+}
+ul .list {
+    list-style-type:none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul.list li{
+    text-align: center;  
+}
+.content{
+    display: none;
+}
+.content.show{
+    display: block;
+} */
+
+
+.maincontainer{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 15px;
+}
+button{
+    margin: 15px;
+    padding: 50px;
+    cursor: pointer;
+    transition-duration: 0ms;
+    transform: 0.5s;
+}
